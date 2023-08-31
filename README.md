@@ -41,4 +41,4 @@ that can be used in qualitative analysis methods, such as Grounded
 Theory.
 
 
-The repository is organized with read.me and the licence being presented at the root, and the folders Data From Experiment SBES2023, UXUMEQ Questionnaire and Used Artifacts.
+The repository is organized with read.me and the licence being presented at the root, and the folders Data From Experiment SBES2023 (containing the folders Individual Discrepancies, Participants Information, Qualitative Analysis and Quantitative Analysis), UXUMEQ Questionnaire and Used Artifacts.
